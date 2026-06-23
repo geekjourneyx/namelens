@@ -1,0 +1,50 @@
+{
+  "skill_name": "namelens",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "我要做一个面向中文互联网的开源 AI Search CLI，第一期聚合 Bocha、火山引擎和知乎。Findo 和 Searcher 都太容易撞名。请联网研究并推荐一批能用于 GitHub 仓库、CLI 命令和 Go module 的项目名，允许拉丁语、日语、小语种隐喻，但不要乱编词源。目标是容易传播，并兼顾 SEO/GEO。",
+      "expected_output": "A dated Standard-mode naming report with a decisive recommendation, diverse naming lanes, live collision research, verified linguistic claims, qualitative evidence-based comparison, and launch-ready identity fields.",
+      "files": [],
+      "expectations": [
+        "The response states a compact naming brief and labels material assumptions.",
+        "The response researches current web, GitHub, and Go or repository namespace collisions for finalists and states the search date.",
+        "The response considers at least five genuinely different naming lanes.",
+        "Foreign-language finalists include verified origin and meaning or are explicitly labeled root-inspired or invented.",
+        "The candidate matrix uses evidence-backed ordinal judgments, collision status, naming difficulty, pronunciation, and a main risk without decorative decimal scoring.",
+        "The response separates the distinctive brand from the category descriptor for SEO/GEO.",
+        "The winner includes display name, repository slug, CLI command, Go module strategy, entity definition, tagline, and GitHub About text.",
+        "The response avoids universal availability or trademark-clearance claims and lists remaining checks."
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "Name a Rust CLI that scans two folders, detects visually near-duplicate screenshots, and outputs a review queue. The crate name and command should ideally be identical. I want something terse and technical, no cute animal names, no '-ai' suffix. Search live collisions and compare 20 serious candidates.",
+      "expected_output": "A CLI and library-focused report prioritizing crates.io, GitHub, command ergonomics, Rust normalization, collision evidence, and one decisive winner.",
+      "files": [],
+      "expectations": [
+        "The report prioritizes CLI transmission, collision safety, and platform fit.",
+        "The report checks exact and normalized variants on crates.io and GitHub for researched finalists.",
+        "The report tests realistic shell commands and notes Rust hyphen-to-underscore import normalization where relevant.",
+        "The report produces approximately 20 serious candidates across multiple lanes and respects the no-animal and no-ai constraints.",
+        "Red same-category or critical-registry collisions are rejected or explicitly gated from the top three.",
+        "The final recommendation gives canonical display, repository, crate, and command spellings.",
+        "The response includes a backup candidate and immediate reservation checklist."
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "I am building a consumer mobile app for Japanese learners who practice shadowing from podcasts. It will launch in English-speaking markets first, then Japan. I need a warm, memorable global brand, not a literal 'Japanese Shadowing App' name. Explore English, Japanese, Latin, and metaphorical options; verify meanings and screen obvious app, domain, social, and trademark collisions. Give me a top five and one winner.",
+      "expected_output": "A consumer-brand report emphasizing spoken transmission, English and Japanese safety, app-store collisions, preliminary commercial risk, and a decisive winner.",
+      "files": [],
+      "expectations": [
+        "The report emphasizes memorability, pronunciation, and cross-language safety.",
+        "Japanese candidates include original script, standard romanization, literal meaning, modern-use evidence, and pronunciation.",
+        "The output checks exact and phonetic collisions across web and app-store surfaces and distinguishes checked from unverified domain or handle status.",
+        "The top five include read-once pronunciation, hear-once spelling, likely misspellings, and target-market connotations.",
+        "The winner has a stable entity definition and category descriptor without SEO or GEO ranking guarantees.",
+        "The trademark section is explicitly preliminary and points to official registers or professional clearance for launch."
+      ]
+    }
+  ]
+}

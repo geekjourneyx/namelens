@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "prompt": "I am building a Rust CLI that finds duplicate screenshots across folders. Name it. The crate, repo, and command should match if possible. Avoid cute names and run live collision checks.",
+    "expected": "A Standard-mode naming report with a brief, search scope/date, researched finalists, collision risk, evidence-backed rejected names, one winner, backup names, reservation checklist, and launch-ready identity fields."
+  },
+  {
+    "id": 2,
+    "prompt": "帮我给一个开源 AI 笔记整理工具改名。要求中文用户容易传播，GitHub 和 npm 风险低，不能乱用拉丁语词源。",
+    "expected": "中文 Standard 命名报告，包含搜索范围/日期、多路线候选、联网碰撞检索、跨语言核验、候选矩阵、被淘汰名字、明确赢家、备选名和待核验/待注册事项。"
+  },
+  {
+    "id": 3,
+    "prompt": "Compare NameLens, NameRadar, and Nomexa for an AI skill that researches names for open-source projects. I need one final recommendation and exact GitHub About text.",
+    "expected": "A comparative Standard decision report that stress-tests all three names, states search scope and date, rejects weaker options with evidence, chooses one winner, includes backups, and provides final identity copy."
+  }
+]
