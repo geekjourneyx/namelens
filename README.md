@@ -104,3 +104,10 @@ The skill is pure documentation. There are no runtime scripts or package depende
 ## License
 
 [MIT](./LICENSE)
+
+## 作者
+
+- 主页：[jieni.ai](https://jieni.ai)
+- GitHub：[@geekjourneyx](https://github.com/geekjourneyx)
+- X：[@seekjourney](https://x.com/seekjourney)
+- 公众号：极客杰尼
