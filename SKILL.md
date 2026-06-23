@@ -1,13 +1,13 @@
 ---
 name: namelens
-description: Agent Skill for researching, stress-testing, and naming new open-source projects. Use this skill whenever the user says NameLens or namelens, asks to name or rename a project, compare candidate names, check whether a name is crowded or usable, find names that work for GitHub or package registries, explore Latin/Japanese/other-language roots or mythology, or improve SEO/GEO discoverability. Perform live web and registry research, verify linguistic claims, distinguish brand from category descriptor, assess collisions and naming difficulty, and return one evidence-backed recommendation.
+description: Research and stress-test open-source project names, from collision checks to launch-ready decisions. Use when the user asks to name or rename a project, compare candidate names, screen GitHub or package namespace risk, verify language or mythology claims, or improve SEO/GEO clarity. Perform live web and registry research, separate brand from category descriptor, classify collisions, and return one evidence-backed recommendation.
 license: MIT
 compatibility: Requires live web or browser access for current collision, registry, domain, handle, language-usage, and preliminary trademark checks. Without live access, generate candidates but mark all such findings UNVERIFIED.
 ---
 
 # NameLens
 
-Research, stress-test, and name your next open-source project.
+Research and stress-test open-source project names, from collision checks to launch-ready decisions.
 
 NameLens helps builders generate project names, check naming collisions, evaluate GitHub and package namespace risk, and choose names that are memorable, searchable, and easy to spread.
 

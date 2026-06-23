@@ -2,7 +2,7 @@
 
 # NameLens
 
-**Research, stress-test, and name your next open-source project.**
+**Research and stress-test open-source project names, from collision checks to launch-ready decisions.**
 
 <img src="assets/banner.webp" alt="NameLens - Naming research for open-source projects" width="100%">
 
@@ -12,7 +12,7 @@
 
 ---
 
-NameLens is an Agent Skill for project naming research. It helps builders generate candidate names, check collisions across GitHub and package ecosystems, verify language claims, and choose one name that is memorable, searchable, and ready to publish.
+NameLens is an Agent Skill for researching and stress-testing open-source project names, from collision checks to launch-ready decisions. It helps builders generate candidate names, evaluate GitHub and package namespace risk, verify language claims, and choose one name that is memorable, searchable, and ready to publish.
 
 ## Why It Exists
 
